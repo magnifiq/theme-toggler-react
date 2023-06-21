@@ -1,3 +1,9 @@
+# The app for theme toggling
+
+-- The main purpose is to learn how to use createContext and useContext in React
+
+--The last version was released in 23/12/2022
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
